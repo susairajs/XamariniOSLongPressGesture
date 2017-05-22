@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamariniOSLongPress/XamariniOSLongPress/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSLongPress/XamariniOSLongPress/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSLongPress/XamariniOSLongPress/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSLongPress/XamariniOSLongPress/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSLongPress/XamariniOSLongPress/obj/iPhoneSimulator/Debug/optimized/
+/Users/DELPIN/Projects/XamariniOSLongPress/XamariniOSLongPress/bin/iPhoneSimulator/Debug/XamariniOSLongPress.exe.mdb
+/Users/DELPIN/Projects/XamariniOSLongPress/XamariniOSLongPress/bin/iPhoneSimulator/Debug/XamariniOSLongPress.exe
+/Users/DELPIN/Projects/XamariniOSLongPress/XamariniOSLongPress/obj/iPhoneSimulator/Debug/XamariniOSLongPress.exe
+/Users/DELPIN/Projects/XamariniOSLongPress/XamariniOSLongPress/obj/iPhoneSimulator/Debug/XamariniOSLongPress.exe.mdb
